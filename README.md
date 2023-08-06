@@ -25,7 +25,7 @@ Stock Price Prediction using Machine Learning
 Using machine learning, stock price prediction involves forecasting the future value of stocks traded on stock exchanges to generate profits. Since there are numerous variables involved in predicting stock prices, achieving high accuracy is challenging, and that's where machine learning comes in handy.
 
 Building the LSTM model
-<https://user-images.githubusercontent.com/109129599/255308979-ec9c60ee-1f0d-497b-8ef7-390882fb938b.png>
+https://user-images.githubusercontent.com/109129599/255308979-ec9c60ee-1f0d-497b-8ef7-390882fb938b.png
 To construct a basic LSTM model with a single unit, we will utilize the Sequential and LSTM modules offered by Tensorflow Keras.
 Performance Evaluation on Test Set
 To access the performance of the model, we initially plot the curve for the actual values and compare it to the curve for the predicted values.
